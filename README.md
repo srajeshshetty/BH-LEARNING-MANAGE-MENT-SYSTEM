@@ -1,4 +1,4 @@
-# BroskiesHub - Learning Management System
+# Learning Management System
 
 A modern, next-generation Learning Management System (LMS) built with React and TypeScript.
 
